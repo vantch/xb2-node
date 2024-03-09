@@ -1,2 +1,2 @@
-const greeting = 'hello ~';
+const greeting = 'hello ~ 你好!！';
 console.log(greeting);
