@@ -1,0 +1,12 @@
+{
+  "name": "xb2-node",
+  "version": "1.0.0",
+  "description": "《xb2-developer》演示项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vantch <ui@vantch.com>",
+  "license": "ISC"
+}
